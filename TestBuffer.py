@@ -64,7 +64,7 @@ class RingBuffer:
         return value
         
     """
-    This helper function prints the value in the buffer, the size of the buffer and the indices 
+    This helper function prints the values in the buffer, the size of the buffer and the indices 
     that head and tail are pointing to. It is a debugging function. 
     """
 def printBuffer(buffer):
