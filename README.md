@@ -23,7 +23,7 @@ Having not changed my code at all between that change of result I was baffled. I
 investigated the wave module. Unfortunely, running short on time I had to press pause and evaluate what I had accomplished
 and it is included here in this repository. 
 
-There is the "TestingBuffer.py" which shows the buffer implimentation seperate from any audio processing. 
+There is the "TestBuffer.py" which shows the buffer implimentation seperate from any audio processing. 
 It has a main function that demonstrates the buffer is working properly.
 
 There is also "EchoDelay.py" which reads, processes and writes a inputed .wav file. Alas while it reads 
