@@ -28,3 +28,5 @@ It has a main function that demonstrates the buffer is working properly.
 
 There is also "EchoDelay.py" which reads, processes and writes a inputed .wav file. Alas while it reads 
 and writes fine, the effect is not function but it shows what I was attempting to accomplish. 
+Audio (.wav) files must of course be contained in the same folder as the code in-order for the code to read
+them. The code outputs a effected copy of the audio to the that same directory. 
