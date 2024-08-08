@@ -9,4 +9,4 @@ In the repository there is "TestBuffer.py," which shows the buffer implementatio
 
 There is also "EchoDelay.py," which reads, processes, and writes an input .wav file. Alas, while it reads and writes fine, the delay effect is not functional. Audio (.wav) files must, of course, be contained in the same folder as the code in order for the code to read them. The code outputs an processed copy of the audio to that same directory.
 
-I have included a .wav file for use with EchoDelay.py if you wish to test its read an write capability. 
+I have included a .wav file called "Bassline.wav" for use with EchoDelay.py if you wish to test its read an write capability. 
